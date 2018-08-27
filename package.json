@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "review-puller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsdom": "^11.11.0",
+    "read-multiple-files": "^2.0.0"
+  }
+}
